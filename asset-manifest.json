@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/art-again-app/static/css/main.9d411034.chunk.css",
+    "main.js": "/art-again-app/static/js/main.25d55898.chunk.js",
+    "main.js.map": "/art-again-app/static/js/main.25d55898.chunk.js.map",
+    "runtime-main.js": "/art-again-app/static/js/runtime-main.61de5e9f.js",
+    "runtime-main.js.map": "/art-again-app/static/js/runtime-main.61de5e9f.js.map",
+    "static/js/2.0809a054.chunk.js": "/art-again-app/static/js/2.0809a054.chunk.js",
+    "static/js/2.0809a054.chunk.js.map": "/art-again-app/static/js/2.0809a054.chunk.js.map",
+    "index.html": "/art-again-app/index.html",
+    "precache-manifest.24f16ad68b6ef813310343812cbde0e6.js": "/art-again-app/precache-manifest.24f16ad68b6ef813310343812cbde0e6.js",
+    "service-worker.js": "/art-again-app/service-worker.js",
+    "static/css/main.9d411034.chunk.css.map": "/art-again-app/static/css/main.9d411034.chunk.css.map",
+    "static/js/2.0809a054.chunk.js.LICENSE.txt": "/art-again-app/static/js/2.0809a054.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61de5e9f.js",
+    "static/js/2.0809a054.chunk.js",
+    "static/css/main.9d411034.chunk.css",
+    "static/js/main.25d55898.chunk.js"
+  ]
+}
