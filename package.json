@@ -1,6 +1,6 @@
 {
-  "homepage": "https://bhagirthijhamb.github.io/art-again-app",
   "name": "art-again-app",
+  "homepage": "https://bhagirthijhamb.github.io/art-again-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
